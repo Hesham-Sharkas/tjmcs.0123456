@@ -11,5 +11,8 @@ the m-files are named after theorems and remarks in the article as following:
 | Theorem 2.5	    | Theorem_2_5.m		      |                         |
 | Remark 2.6	    | Remark_2_6.m		      |                         |
 | Theorem 2.7	    | Theorem_2_7_1.m<br>Theorem_2_7_2.m      | affecting Theorem 2.3<br>affecting Theorem 2.5 |
+| Appendix A      | Appendix_A.m          | Parseval's identity     |
+| Appendix B      | Appendix_B.m          | Convolution theorem     |
+| Cyclic Convolution | CyclicConvolution.m | A function perform cyclic convolution |
 
 Corresponding author: sharkas147@yahoo.com
