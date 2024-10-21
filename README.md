@@ -7,10 +7,10 @@ the m-files are named after theorems and remarks in the article as following:
 | Theorem 2.1	    | Theorem_2_1_complex.m<br>Theorem_2_1_real.m | for complex coefficients<br>for real coefficients|
 | Theorem 2.2	    | Theorem_2_2_complex.m<br>Theorem_2_2_real.m	| for complex coefficients<br>for real coefficients|
 | Theorem 2.3	    | Theorem_2_3.m		      |                         |
-| Remark 2.4	    | Remark_2_4.m		      |                         |
+| Corollary 2.4	  | Corollary_2_4.m		    |                         |
 | Theorem 2.5	    | Theorem_2_5.m		      |                         |
-| Remark 2.6	    | Remark_2_6.m		      |                         |
-| Theorem 2.7	    | Theorem_2_7_1.m<br>Theorem_2_7_2.m      | affecting Theorem 2.3<br>affecting Theorem 2.5 |
+| Corollary 2.6	  | Corollary_2_6.m		    |                         |
+| Remark 2.7	    | Remark_2_7_1.m<br>Remark_2_7_2.m      | affecting Theorem 2.3<br>affecting Theorem 2.5 |
 | Appendix A      | Appendix_A.m          | Parseval's identity     |
 | Appendix B      | Appendix_B.m          | Convolution theorem     |
 | Cyclic Convolution | CyclicConvolution.m | A function that performs cyclic convolution |
