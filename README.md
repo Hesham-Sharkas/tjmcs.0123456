@@ -14,5 +14,7 @@ the m-files are named after theorems and remarks in the article as following:
 | Appendix A      | Appendix_A.m          | Parseval's identity     |
 | Appendix B      | Appendix_B.m          | Convolution theorem     |
 | Cyclic Convolution | CyclicConvolution.m | A function that performs cyclic convolution |
+| Discrete Fourier Transform | DFT.m | A function that performs DFT, however, without weighting |
+| Inverse Discrete Fourier Transform | IDFT.m | A function that performs IDFT, however, without weighting |
 
 Corresponding author: sharkas147@yahoo.com
