@@ -2,7 +2,7 @@ This MATLAB CODE is implementation of the theorems introduced in the article tit
 The article is open access and available on (https://doi.org/10.47000/tjmcs.0123456).
 the m-files are named after theorems and remarks in the article as following:
 
-| Theorem/remark  |      m-file		        |	    notes               |
+| Theorem         |      m-file		        |	    notes               |
 ------------------|-----------------------|-------------------------|
 | Theorem 2.1	    | Theorem_2_1_complex.m<br>Theorem_2_1_real.m | for complex coefficients<br>for real coefficients|
 | Theorem 2.2	    | Theorem_2_2_complex.m<br>Theorem_2_2_real.m	| for complex coefficients<br>for real coefficients|
@@ -14,9 +14,9 @@ the m-files are named after theorems and remarks in the article as following:
 | Appendix A      | Appendix_A.m          | Parseval's identity     |
 | Appendix B      | Appendix_B.m          | Convolution theorem     |
 | Appendix C      | Appendix_C_Proposition_C1.m | Proposition C.1   |
-| Cyclic Convolution | CyclicConvolution.m | A function that performs circular convolution |
-| Linear Convolution | LinearConvolution.m | A function that performs linear convolution |
-| Discrete Fourier Transform | DFT.m | A function that performs DFT, however, without weighting |
-| Inverse Discrete Fourier Transform | IDFT.m | A function that performs IDFT, however, without weighting |
+| Cyclic Convolution | CyclicConvolution.m | A function that performs circular convolution. |
+| Linear Convolution | LinearConvolution.m | A function that performs linear convolution. |
+| Discrete Fourier Transform | DFT.m | A function that performs DFT, however, without weighting. |
+| Inverse Discrete Fourier Transform | IDFT.m | A function that performs IDFT, however, without weighting. |
 
 Corresponding author: sharkas147@yahoo.com
