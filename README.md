@@ -10,7 +10,7 @@ the m-files are named after theorems and remarks in the article as following:
 | Corollary 2.4	  | Corollary_2_4.m		    |                         |
 | Theorem 2.5	    | Theorem_2_5.m		      |                         |
 | Corollary 2.6	  | Corollary_2_6.m		    |                         |
-| Remark 2.7	    | Remark_2_7_1.m<br>Remark_2_7_2.m      | affecting Theorem 2.3<br>affecting Theorem 2.5 |
+| Remark 2.7	    | Remark_2_7_part1.m<br>Remark_2_7_part2.m      | affecting Theorem 2.3<br>affecting Theorem 2.5 |
 | Appendix A      | Appendix_A.m          | Parseval's identity     |
 | Appendix B      | Appendix_B.m          | Convolution theorem     |
 | Appendix C      | Appendix_C_Proposition_C1.m | Proposition C.1   |
