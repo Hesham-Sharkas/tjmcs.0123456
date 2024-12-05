@@ -1,5 +1,5 @@
-This MATLAB CODE is implementation of the theorems introduced in the article titles "Mapping of L^2-norm of two multiplied 2pi-periodic functions to their Fourier coefficients (Part II)", (DOI: 10.47000/tjmcs.0123456).
-The article is open access and available on (https://doi.org/10.47000/tjmcs.0123456).
+This MATLAB CODE is implementation of the theorems introduced in the article titles "Mapping of L^2-norm of two multiplied 2pi-periodic functions to their Fourier coefficients (Part II)", (DOI: 10.47000/tjmcs.1424850).
+The article is open access and available on (https://doi.org/10.47000/tjmcs.1424850).
 the m-files are named after theorems and remarks in the article as following:
 
 | Theorem         |      m-file		        |	    notes               |
