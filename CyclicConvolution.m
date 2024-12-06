@@ -1,3 +1,7 @@
+% Written by Hesham Sharkas, on 22 October, 2024
+% This code implements Cyclic Convolution, used in theorems and corollaries
+% in the open access article DOI: http://dx.doi.org/10.47000/tjmcs.1424850
+
 function out = CyclicConvolution(u,v)
 L_u = length(u);
 L_v = length(v);
