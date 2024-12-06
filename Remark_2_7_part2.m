@@ -1,3 +1,7 @@
+% Written by Hesham Sharkas, on 22 October, 2024
+% This code implements Remark 2.7, introduced in the open access article
+% DOI: http://dx.doi.org/10.47000/tjmcs.1424850
+
 clc;
 clear;
 
