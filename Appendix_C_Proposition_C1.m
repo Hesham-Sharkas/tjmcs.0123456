@@ -1,3 +1,7 @@
+% Written by Hesham Sharkas, on 22 October, 2024
+% This code implements Appendix C, introduced in the open access article
+% DOI: http://dx.doi.org/10.47000/tjmcs.1424850
+
 clc;
 clear;
 
@@ -15,7 +19,7 @@ r_2 = [r(N+1:2*N-1) 0];
 % If AE = 0, then the two sides of the relation are identical.
 fprintf('\nVerify the relation r_N = r_1 + r_2\n');
 AE = sum(  abs(r_N - (r_1 + r_2) )  );
-fprintf(' Absolute Error = %f\n',AE);
+fprintf('Absolute Error = %f\n',AE);
 
 % Check the relation given in Equation C.1
 fprintf('\nVerify Equation C.1\n');
